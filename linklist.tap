@@ -1,0 +1,25 @@
+format  {TclDevKit Project File}
+fmtver  2.0
+fmttool {TclDevKit TclApp PackageDefinition} 5.3
+
+##  Saved at : Thu May 08 17:53:58 +0900 2014
+##  By       : yusuke@yusuke-t440p
+
+########
+#####
+###
+##
+#
+
+Package {linklist 3.0}
+Base    @TAP_DIR@
+Path    linklist.tcl
+Path    pkgIndex.tcl
+Path    prio_queue.tcl
+Path    sized_queue.tcl
+
+#
+##
+###
+#####
+########
